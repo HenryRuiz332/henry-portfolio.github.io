@@ -1,0 +1,217 @@
+[
+    {
+      "id" : 1,
+      "name" : "PHP - Laravel - Vue",
+      "url" : "php",
+      "projects" : [
+        {
+          "id" : 1,
+          "tool" : "Laravel, Vue, Python",
+        	"title" : "Megatodo Multi seller",
+          "tecnologies" : "Laravel + Bootstrap + VUE + Vuex + Vuetify",
+        	"description" : "Megatodo es una plataforma de ventas multi tienda desarrollada con las Tecnologías Laravel Vue y Python. Carrito de compras Pasarelas de pago Redsys, Paypal y Transferencia Bancaria, Api Rest elaborada con Laravel. Python, para cubrir algunas fases del desarrollo de la Api",
+        	"url" : "https://megatodo.com",
+        	"status" : 1,
+          "image" :"assets/img_projects/megatodo.png",
+          "company" : "Envíos Venezuela"
+        },
+        {
+          "id" : 2,
+          "tool" : "Laravel, Vue, Nuxt",
+        	"title" : "Ecommerce Steak Market Nautilus",
+          "tecnologies" : "Laravel  +  Nuxt + Bootstrap",
+        	"description" : " Steak Market Nautilus, es una Ecomerce realizada con las Tecnologías Laravel y Nuxt. Se trabajo con Pasarelas de pago, Paypal, Módulo de Transferencia Bancaria y Api Mercado Pago, Api Rest elaborada con Laravel, Frontent hecho en base a Vue y Nuxt",
+        	"url" : "http://demo.tusteak.com",
+        	"status" : 1,
+          "image" :"assets/img_projects/steak_market_nautilus.png",
+          "company": "Megacreativo"
+        },
+        {
+          "id" : 3,
+          "tool" : "Laravel, Vue, Materialize",
+        	"title" : "Uhomie",
+          "tecnologies" : "Laravel  + Vue + Materialize",
+        	"description" : "Uhomie, es un sistema de Alquiler, Renta, Publicación y venta de Propiedades. El sistema cuenta con una variadad de módulos, con panel de administración que permite manejar, a los usuarios y un sistema de comercio para las ventas de las propiedades. Api  elaborada con Laravel, Frontent hecho en base a blade y vue",
+        	"url" : "http://uhomie.cl",
+        	"status" : 1,
+          "image" :"assets/img_projects/uhomie.png",
+          "company": "Megacreativo"
+        },
+        {
+          "id" : 4,
+          "tool" : "Laravel  + Vue + Vuetify",
+        	"title" : "Fidias Gold",
+          "tecnologies" : "Laravel  + Vue + Vuetify",
+        	"description" : "Fidias Gold Es un sistema de administración. El sistema cuenta con una variadad de módulos, con panel de administración de dos roles, clientes y administradores. Módulo de facturación, recibos, albarnes, notas, gestor documental , gestor de tareas. etc. Api  elaborada con laravel. Frontent en base a vue vuetify.",
+        	"url" : "https://fidiasgold.com/",
+        	"status" : 1,
+          "image" :"assets/img_projects/fidiasgold.jpg",
+          "company": "FidiasPro"
+        },
+        {
+          "id" : 5,
+          "tool" : "Laravel  + Vue + Vuetify",
+        	"title" : "Sistema de administración de recusros",
+          "tecnologies" : "Laravel  + Vue + Vuetify",
+        	"description" : " Sistema de administración de productos y servicios. Frontent en base a Vue & Vuetify. Api  elaborada con Laravel",
+        	"url" : "#",
+        	"status" : 1,
+          "image" :"assets/img_projects/comercial.jpg",
+          "company": "FidiasPro"
+        },
+        {
+          "id" : 6,
+          "tool" : "Laravel  + Bootstrap",
+        	"title" : "Sistema de Imprenta",
+          "tecnologies" : "Laravel  + Vue + Vuetify",
+        	"description" : "Imprenta Gráfica Chone, dasarrollado a base de Laravel 6, Se utilizó HTML CSS JS y algunas librerias como Jquery. Sistema sencillo para la gestión de Imprenta",
+        	"url" : "#",
+        	"status" : 1,
+          "image" :"assets/img_projects/sistemacv.png",
+          "company": "FidiasPro"
+        },
+        
+        {
+          "id" : 7,
+          "tool" : "Laravel  + Vuetify",
+        	"title" : "Simple Crud, Vue + Vuetify",
+          "tecnologies" : "Laravel  + Vue + Vuetify",
+        	"description" : "Simple CRUD. Api Rest Laravel. Diseño Vue  Vuetify.",
+        	"url" : "#",
+        	"status" : 1,
+          "image" :"assets/img_projects/crudapivuetify.png",
+          "company": "Personal"
+        },
+        {
+          "id" : 8,
+          "tool" : "Laravel  + Bootstrap + Jquery",
+        	"title" : "Vision Blog",
+          "tecnologies" : "Laravel  + Vue + Vuetify",
+        	"description" : "Blog hecho en Laravel 6 y  Bootstrap 4, Completo Blog a Base de Laravel, Diseño Bootstrap, Javascript && Jquery.",
+        	"url" : "http://visonblog.com",
+        	"status" : 1,
+          "image" :"assets/img_projects/visionblog.png",
+          "company": "Personal"
+        },
+        {
+          "id" : 9,
+          "tool" : "Laravel  + Bootstrap + Jquery",
+        	"title" : "Laravel CMS",
+          "tecnologies" : "Laravel  + Vue + Vuetify",
+        	"description" : "Blog hecho en Laravel 6 y  Bootstrap 4, CMS a Base de Laravel, Diseño Bootstrap, Javascript && Jquery.",
+        	"url" : "#",
+        	"status" : 1,
+          "image" :"assets/img_projects/blog-laravel.png",
+          "company": "Personal"
+        },
+        {
+          "id" : 10,
+          "tool" : "Laravel + Bootstrap + Vue",
+        	"title" : "Envíos Venezuela Web",
+          "tecnologies" : "Laravel + Bootstrap + VUE",
+        	"description" : "Envíos Venezuela, es una plataforma creada con Backend en PHP puro y como frontend se utilizó, Bootstrap. Se realizaron actualizaciones y se sumo una tecnología más, VUE.",
+        	"url" : "https://www.enviosvenezuela.es/enviosve/public/index.php",
+        	"status" : 1,
+          "image" :"assets/img_projects/enviosvenezuela.png",
+          "company" : "Envíos Venezuela"
+        }
+      ]
+    },
+   
+    {
+      "id" : 4,
+      "name": "Wordpress - Divi - Elementor",
+      "url": "wordpress",
+      "projects" : [
+        {
+          "id" : 1,
+          "tool" : "Wordpress - Divi",
+        	"title" : "Panadería Chicharra",
+          "tecnologies" : "Wordpress - Divi",
+        	"description" : "Sitio web de Panadería. Wordpress, Divi, Optimizada en SEO",
+        	"url" : "https://panaderiaelchicharra.com/",
+        	"status" : 1,
+          "image" :"assets/img_projects/panaderiachicharra.jpg",
+          "company": "FidiasPro"
+        },
+        {
+          "id" : 2,
+          "tool" : "Wordpress - Divi",
+        	"title" : "Aristoi Oposiciones",
+          "tecnologies" : "Wordpress - Divi",
+        	"description" : "Sitio web academia de oposiciones online y presencial. Wordpress, Divi, Optimizada en SEO",
+        	"url" : "https://panaderiaelchicharra.com/",
+        	"status" : 1,
+          "image" :"assets/img_projects/aristoi.jpg",
+          "company": "FidiasPro"
+        },
+        {
+          "id" : 3,
+          "tool" : "Wordpress - Divi",
+        	"title" : "Grupo Lemar",
+          "tecnologies" : "Wordpress - Divi",
+        	"description" : "Sitio web de servicios de construcción, reformas, renovaciones, fontanería, aire acondicionado y piscinas",
+        	"url" : "https://grupolemar.es/",
+        	"status" : 1,
+          "image" :"assets/img_projects/grupolemar.jpg",
+          "company": "FidiasPro"
+        },
+        {
+          "id" : 4,
+          "tool" : "Wordpress - Divi",
+        	"title" : "Imperio Varon",
+          "tecnologies" : "Wordpress - Divi",
+        	"description" : "Sitio web hecho con el constructor Divi. Servcios de cuidado de Imagen. Wordpress, Divi",
+        	"url" : "https://imperiovaron.com/",
+        	"status" : 1,
+          "image" :"assets/img_projects/imperiovaron.jpg",
+          "company": "FidiasPro"
+        },
+        {
+          "id" : 5,
+          "tool" : "Wordpress - Divi",
+        	"title" : "Repuestos World",
+          "tecnologies" : "Wordpress - Divi",
+        	"description" : "Ecommerce Wordpress + Woocommerce + Divi + Monarch + Bloom. Ecommerce de repuestos de automóviles, servicios de mecánica, Google Analitycs",
+        	"url" : "#",
+        	"status" : 1,
+          "image" :"assets/img_projects/repuesto.jpg",
+          "company": "Tecnocosmetic"
+        },
+        {
+          "id" : 6,
+          "tool" : "Wordpress - Elementor",
+        	"title" : "Invenia Fitness",
+          "tecnologies" : "Worpress  Tema optimizado SEO",
+        	"description" : "Invenia fitness, web de con elegante diseño para gym",
+        	"url" : "http://inveniafitness.com/",
+        	"status" : 1,
+          "image" :"assets/img_projects/invenia.jpg",
+          "company": "Megacreativo"
+        },
+        {
+          "id" : 7,
+          "tool" : "Wordpress - Divi",
+        	"title" : "Servicios Financieros CH",
+          "tecnologies" : "Wordpress - Divi",
+        	"description" : "Sitio Web Corporativo asociado a Banca Amiga.",
+        	"url" : "http://serviciosfinacierosch.com",
+        	"status" : 1,
+          "image" :"assets/img_projects/repuesto.jpg",
+          "company": "Personal"
+        },
+        {
+          "id" : 8,
+          "tool" : "Wordpress - Divi",
+        	"title" : "DiveEmbassy",
+          "tecnologies" : "Wordpress - Divi",
+        	"description" : "Blog desarrollado en Wordprees. Web de Buceo",
+        	"url" : "http://diveembassy.com",
+        	"status" : 1,
+          "image" :"assets/img_projects/diveweb.jpg",
+          "company": "Tecnocosmetic"
+        }
+      ]
+    }
+
+  ]
