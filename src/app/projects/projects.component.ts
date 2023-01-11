@@ -15,7 +15,7 @@ export class ProjectsComponent {
 
   ngOnInit(): void {
     this.projects = projects
-    console.log(this.projects)
+    
     
   }
 
